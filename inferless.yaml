@@ -1,6 +1,6 @@
 version: 1.0.0
 
-name: Phi-2
+name: Zephyr-7b-beta
 import_source: GIT
 
 # you can choose the options between ONNX, TENSORFLOW, PYTORCH
